@@ -1,0 +1,32 @@
+
+table{
+  margin: auto;
+  width: 70%;
+  border: 3px solid green;
+  padding: 10px;
+  font-family:'Papyrus'
+}
+h1{
+    margin: auto;
+    width:50%;
+    color: blue;
+    font-family:'Papyrus'
+}
+footer {
+	flex: 1;
+	background: powderblue;
+	padding: 20px;
+	font-size: 1.2rem;
+	line-height: 1.4;
+}
+#button{
+  background-color: #04AA6D;
+  border: none;
+  color: white;
+  padding: 16px 32px;
+  text-decoration: none;
+  margin: 4px 2px;
+  cursor: pointer;
+  text-align: center;
+  font-family:'Papyrus'
+}

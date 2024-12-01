@@ -1,0 +1,355 @@
+{'text': '[Applause]', 'start': 0.25, 'duration': 4.31}
+{'text': 'Captain', 'start': 1.56, 'duration': 3.0}
+{'text': 'Midnight this video is brought to you by', 'start': 6.56, 'duration': 5.84}
+{'text': 'nebula I will be spoiling the movie a', 'start': 9.4, 'duration': 5.159}
+{'text': 'couple years ago I put out a video on', 'start': 12.4, 'duration': 4.799}
+{'text': 'the deeply strange Gladiator sequel that', 'start': 14.559, 'duration': 5.121}
+{'text': 'was planned back in the 2000s which', 'start': 17.199, 'duration': 4.641}
+{'text': "would have seen Russell Crow's maximus", 'start': 19.68, 'duration': 4.439}
+{'text': 'in the afterlife battling through many', 'start': 21.84, 'duration': 4.519}
+{'text': 'of the biggest conflicts in history even', 'start': 24.119, 'duration': 4.48}
+{'text': 'World War II it was a weird pitch', 'start': 26.359, 'duration': 4.961}
+{'text': 'created by Rockstar Nick cave that never', 'start': 28.599, 'duration': 5.361}
+{'text': 'came to fruition instead about a quar', 'start': 31.32, 'duration': 5.16}
+{'text': 'century after the first film we have a', 'start': 33.96, 'duration': 5.4}
+{'text': 'much more traditional Gladiator 2 one', 'start': 36.48, 'duration': 4.919}
+{'text': 'that is not without its positives', 'start': 39.36, 'duration': 3.96}
+{'text': 'honestly some aspects of this film I', 'start': 41.399, 'duration': 3.68}
+{'text': "enjoyed a lot and I'll talk about those", 'start': 43.32, 'duration': 4.12}
+{'text': 'too but also one that plays things', 'start': 45.079, 'duration': 4.721}
+{'text': 'incredibly safe and falls into the same', 'start': 47.44, 'duration': 5.88}
+{'text': 'pitfalls as the legacy sequel formula of', 'start': 49.8, 'duration': 6.04}
+{'text': 'movies like Jurassic world or the force', 'start': 53.32, 'duration': 4.84}
+{'text': 'awakens leaving us with a movie that I', 'start': 55.84, 'duration': 4.48}
+{'text': "didn't have a terrible time with by any", 'start': 58.16, 'duration': 4.559}
+{'text': 'means but also one that fails to live up', 'start': 60.32, 'duration': 5.199}
+{'text': 'to the lofty Legacy of that first film I', 'start': 62.719, 'duration': 4.521}
+{'text': "don't want to be too harsh on this one", 'start': 65.519, 'duration': 3.64}
+{'text': "it wasn't a bad night at the movies but", 'start': 67.24, 'duration': 4.12}
+{'text': 'in trying to repeat so many of the Beats', 'start': 69.159, 'duration': 4.361}
+{'text': 'of gladiator it makes the places it', 'start': 71.36, 'duration': 5.24}
+{'text': 'comes up short glaringly obvious before', 'start': 73.52, 'duration': 4.68}
+{'text': "I get to that I want to mention that I'm", 'start': 76.6, 'duration': 4.04}
+{'text': 'still trying to get the channel to 700k', 'start': 78.2, 'duration': 5.4}
+{'text': 'subscribers before the end of 2024 thank', 'start': 80.64, 'duration': 5.119}
+{'text': "you to everyone who subscribed we're", 'start': 83.6, 'duration': 4.199}
+{'text': 'really close now so if you find yourself', 'start': 85.759, 'duration': 3.921}
+{'text': "watching my videos but haven't done it", 'start': 87.799, 'duration': 4.241}
+{'text': "yet I'd really appreciate it so all", 'start': 89.68, 'duration': 4.56}
+{'text': 'right Gladiator 2 I mentioned Force', 'start': 92.04, 'duration': 4.64}
+{'text': 'awakens for a reason despite that movie', 'start': 94.24, 'duration': 5.0}
+{'text': 'serving as the go-to text for a lot of', 'start': 96.68, 'duration': 4.92}
+{'text': 'legacy sequel things I was still', 'start': 99.24, 'duration': 4.4}
+{'text': "surprised by how much of this movie's", 'start': 101.6, 'duration': 4.559}
+{'text': 'structure reminded me of it or at least', 'start': 103.64, 'duration': 5.36}
+{'text': 'of its worship of the original Star Wars', 'start': 106.159, 'duration': 5.401}
+{'text': 'so in Gladiator 2 we see that things', 'start': 109.0, 'duration': 4.88}
+{'text': 'basically went horribly wrong right', 'start': 111.56, 'duration': 4.12}
+{'text': 'after the events of the first film I', 'start': 113.88, 'duration': 3.8}
+{'text': 'mean these are not films concerned with', 'start': 115.68, 'duration': 4.479}
+{'text': 'historical accuracy or anything so it', 'start': 117.68, 'duration': 4.039}
+{'text': 'would kind of make sense to think that', 'start': 120.159, 'duration': 4.401}
+{'text': 'Maximus sacrificing his life to take out', 'start': 121.719, 'duration': 5.32}
+{'text': 'the evil emperor kedus would lead to the', 'start': 124.56, 'duration': 5.039}
+{'text': 'restoration of the Republic instead', 'start': 127.039, 'duration': 4.441}
+{'text': 'things immediately went South with', 'start': 129.599, 'duration': 4.161}
+{'text': 'Lucius having to flee Rome as a child', 'start': 131.48, 'duration': 4.399}
+{'text': 'and a pair of previously unmentioned', 'start': 133.76, 'duration': 4.759}
+{'text': 'Brothers taking power it puts a downer', 'start': 135.879, 'duration': 4.681}
+{'text': 'spin on the ending of the first movie', 'start': 138.519, 'duration': 3.401}
+{'text': "which you know I don't want to get too", 'start': 140.56, 'duration': 4.08}
+{'text': 'hung up on but Gladiator is a movie that', 'start': 141.92, 'duration': 4.56}
+{'text': 'I just watched endlessly in middle', 'start': 144.64, 'duration': 4.12}
+{'text': "school so hey I can't help it if it", 'start': 146.48, 'duration': 4.44}
+{'text': 'annoys me just a little bit the bigger', 'start': 148.76, 'duration': 3.88}
+{'text': 'issue though is that nearly every', 'start': 150.92, 'duration': 4.08}
+{'text': 'character here feels like kind of a new', 'start': 152.64, 'duration': 4.679}
+{'text': 'spin on a character from the first film', 'start': 155.0, 'duration': 4.319}
+{'text': 'Lucius is motivated by the death of his', 'start': 157.319, 'duration': 4.081}
+{'text': 'wife at the hands of the Roman army just', 'start': 159.319, 'duration': 4.681}
+{'text': 'like Maximus the twin Emperors play out', 'start': 161.4, 'duration': 5.44}
+{'text': 'like a less interesting comist tribute', 'start': 164.0, 'duration': 5.599}
+{'text': "band echoing Phoenix's creepy spoiled", 'start': 166.84, 'duration': 4.8}
+{'text': 'rich kid performance but without the', 'start': 169.599, 'duration': 4.121}
+{'text': 'psychological underpinnings of that', 'start': 171.64, 'duration': 3.959}
+{'text': 'character where the first movie went out', 'start': 173.72, 'duration': 4.0}
+{'text': 'of its way to make comus a pretty', 'start': 175.599, 'duration': 4.241}
+{'text': 'textured figure a man who designed', 'start': 177.72, 'duration': 4.799}
+{'text': 'desire to be feared and loved in equal', 'start': 179.84, 'duration': 4.8}
+{'text': 'measure lashing out with violence', 'start': 182.519, 'duration': 4.64}
+{'text': 'constantly but also chasing the approval', 'start': 184.64, 'duration': 4.48}
+{'text': 'of a father he murdered and who would', 'start': 187.159, 'duration': 3.561}
+{'text': 'never have granted it to him in the', 'start': 189.12, 'duration': 4.16}
+{'text': 'first place I think the two new actors', 'start': 190.72, 'duration': 5.4}
+{'text': 'give entertaining unhinged performances', 'start': 193.28, 'duration': 4.679}
+{'text': "but they don't have nearly as much to", 'start': 196.12, 'duration': 3.759}
+{'text': "work with and then there's Denzel", 'start': 197.959, 'duration': 4.56}
+{'text': 'Washington filling a similar character', 'start': 199.879, 'duration': 5.0}
+{'text': 'type that Oliver Reed did in the first', 'start': 202.519, 'duration': 4.681}
+{'text': 'and I do totally understand why this', 'start': 204.879, 'duration': 4.56}
+{'text': 'Gladiator Master character was the one', 'start': 207.2, 'duration': 4.959}
+{'text': 'the sequel decided to expand on most', 'start': 209.439, 'duration': 4.761}
+{'text': 'Oliver Reed died during the making of', 'start': 212.159, 'duration': 3.921}
+{'text': 'the first one and while he gives a great', 'start': 214.2, 'duration': 4.0}
+{'text': 'performance it had to be truncated', 'start': 216.08, 'duration': 4.359}
+{'text': 'significantly working with what they had', 'start': 218.2, 'duration': 4.88}
+{'text': 'and using the standin where necessary so', 'start': 220.439, 'duration': 4.281}
+{'text': "it makes a lot of sense that if you're", 'start': 223.08, 'duration': 3.68}
+{'text': 'giving the first movie kind of a soft', 'start': 224.72, 'duration': 4.239}
+{'text': "reboot treatment that's the role you'd", 'start': 226.76, 'duration': 4.119}
+{'text': "want to beef up I've heard complaints", 'start': 228.959, 'duration': 4.2}
+{'text': 'that his performance and especially his', 'start': 230.879, 'duration': 4.841}
+{'text': 'accent feel very out of place and while', 'start': 233.159, 'duration': 4.561}
+{'text': 'I can be sympathetic to people seeking', 'start': 235.72, 'duration': 4.12}
+{'text': 'out fiction that takes historical', 'start': 237.72, 'duration': 4.64}
+{'text': 'accuracy seriously I got to say that has', 'start': 239.84, 'duration': 5.08}
+{'text': 'just never been what Gladiator is like', 'start': 242.36, 'duration': 4.239}
+{'text': 'they are larger than life adventure', 'start': 244.92, 'duration': 4.039}
+{'text': 'stories using the Roman Empire as a', 'start': 246.599, 'duration': 4.801}
+{'text': 'backdrop director Ridley Scott has made', 'start': 248.959, 'duration': 4.601}
+{'text': 'his thoughts on pursuing historical', 'start': 251.4, 'duration': 4.92}
+{'text': 'accuracy in his films really clear on', 'start': 253.56, 'duration': 4.6}
+{'text': 'the Press tour for his last movie', 'start': 256.32, 'duration': 4.479}
+{'text': 'Napoleon where he told people who cared', 'start': 258.16, 'duration': 5.28}
+{'text': "about this to get a life so if that's", 'start': 260.799, 'duration': 4.361}
+{'text': "something that's near the top of your", 'start': 263.44, 'duration': 3.319}
+{'text': 'priority list when it comes to', 'start': 265.16, 'duration': 3.68}
+{'text': "historical fiction I really think you'd", 'start': 266.759, 'duration': 3.761}
+{'text': 'be better off check checking out like a', 'start': 268.84, 'duration': 3.6}
+{'text': 'well researched novel maybe something', 'start': 270.52, 'duration': 4.519}
+{'text': "like Robert Harris's cisero Trilogy", 'start': 272.44, 'duration': 4.8}
+{'text': "because let's face it this is just not", 'start': 275.039, 'duration': 3.641}
+{'text': 'something that Ridley Scott is', 'start': 277.24, 'duration': 4.04}
+{'text': 'interested in anyway back to Washington', 'start': 278.68, 'duration': 4.28}
+{'text': 'I think he easily gives the most', 'start': 281.28, 'duration': 4.199}
+{'text': 'engaging energetic performance here', 'start': 282.96, 'duration': 5.16}
+{'text': 'making a ever so slightly over-the-top', 'start': 285.479, 'duration': 4.761}
+{'text': 'meal of his scenes in a way that I think', 'start': 288.12, 'duration': 3.919}
+{'text': 'you really want from a movie villain', 'start': 290.24, 'duration': 4.76}
+{'text': 'like this I enjoyed his scheming rise to', 'start': 292.039, 'duration': 5.521}
+{'text': "the top of Rome's High Society even if", 'start': 295.0, 'duration': 5.0}
+{'text': 'the characters around him were Fair', 'start': 297.56, 'duration': 4.88}
+{'text': "simplistic my only issue with Denzel's", 'start': 300.0, 'duration': 4.479}
+{'text': 'role here is I think the last 20 minutes', 'start': 302.44, 'duration': 4.16}
+{'text': 'of the movie really wastes all the', 'start': 304.479, 'duration': 4.321}
+{'text': 'cunning he put on display throughout the', 'start': 306.6, 'duration': 4.28}
+{'text': 'rest of it his plot to usurp the', 'start': 308.8, 'duration': 4.08}
+{'text': 'Emperors Works to Perfection and then', 'start': 310.88, 'duration': 3.92}
+{'text': 'his plan to deal with Lucius and his', 'start': 312.88, 'duration': 5.28}
+{'text': 'forces is to uh be a 70-year-old man who', 'start': 314.8, 'duration': 5.64}
+{'text': 'battles a gladiator 40 years younger', 'start': 318.16, 'duration': 5.759}
+{'text': 'than him and not surprisingly he loses', 'start': 320.44, 'duration': 5.599}
+{'text': 'now this is somewhat similar to The Duel', 'start': 323.919, 'duration': 4.321}
+{'text': "at the end of the first film but comed's", 'start': 326.039, 'duration': 4.841}
+{'text': 'actions just made a lot more sense there', 'start': 328.24, 'duration': 4.959}
+{'text': 'because he was dealing with winning back', 'start': 330.88, 'duration': 4.56}
+{'text': 'the crowd and he tilted things in his', 'start': 333.199, 'duration': 5.241}
+{'text': 'favor by stabbing Maximus beforehand I', 'start': 335.44, 'duration': 4.599}
+{'text': "just think it's a disappointingly", 'start': 338.44, 'duration': 3.68}
+{'text': 'straightforward ending for a character', 'start': 340.039, 'duration': 4.28}
+{'text': 'who had been portrayed as a really', 'start': 342.12, 'duration': 4.84}
+{'text': 'calculating wielder of power up until', 'start': 344.319, 'duration': 5.16}
+{'text': 'then still I really enjoy Denzel here', 'start': 346.96, 'duration': 4.6}
+{'text': 'and I think he does his absolute best to', 'start': 349.479, 'duration': 4.601}
+{'text': 'elevate a fairly basic script Paul', 'start': 351.56, 'duration': 5.04}
+{'text': "Mescal as Lucius I'm a little more torn", 'start': 354.08, 'duration': 4.839}
+{'text': 'on I think he works really well and some', 'start': 356.6, 'duration': 4.68}
+{'text': 'of the more in intimate and smallscale', 'start': 358.919, 'duration': 4.481}
+{'text': 'character moments his friendships with', 'start': 361.28, 'duration': 4.639}
+{'text': 'his mentor from North Africa who dies', 'start': 363.4, 'duration': 4.639}
+{'text': 'early on in the film and later with his', 'start': 365.919, 'duration': 4.72}
+{'text': 'doctor and a former Gladiator are some', 'start': 368.039, 'duration': 5.081}
+{'text': 'of his best work here getting across a', 'start': 370.639, 'duration': 4.68}
+{'text': 'real tangible sense of Brotherhood that', 'start': 373.12, 'duration': 4.6}
+{'text': 'at least let me understand why these', 'start': 375.319, 'duration': 4.28}
+{'text': 'other men were ready and willing to', 'start': 377.72, 'duration': 3.96}
+{'text': "follow him into battle I think it's the", 'start': 379.599, 'duration': 4.401}
+{'text': 'areas that Russell Crow excelled that', 'start': 381.68, 'duration': 4.48}
+{'text': 'where he stumbles he has a scene with', 'start': 384.0, 'duration': 4.479}
+{'text': "Denzel where mescal's Lucius is", 'start': 386.16, 'duration': 4.8}
+{'text': 'described as being filled with burning', 'start': 388.479, 'duration': 4.84}
+{'text': 'and intense rage now there have been a', 'start': 390.96, 'duration': 3.92}
+{'text': 'lot of Leading Men through the years', 'start': 393.319, 'duration': 3.841}
+{'text': 'that have conveyed that incredibly well', 'start': 394.88, 'duration': 3.84}
+{'text': "whether you're talking about Russell", 'start': 397.16, 'duration': 4.439}
+{'text': 'Crow Clint Eastwood a young Mel Gibson', 'start': 398.72, 'duration': 6.44}
+{'text': 'or Denzel Washington himself but Paul', 'start': 401.599, 'duration': 6.681}
+{'text': "Mescal I don't really see it Russell", 'start': 405.16, 'duration': 5.36}
+{'text': 'Crow was never underappreciated in the', 'start': 408.28, 'duration': 4.359}
+{'text': 'first movie I mean he won the Oscar for', 'start': 410.52, 'duration': 4.119}
+{'text': 'it but I think it is easy to take for', 'start': 412.639, 'duration': 4.28}
+{'text': 'granted just how difficult it must be to', 'start': 414.639, 'duration': 4.601}
+{'text': 'take on a character as straightforwardly', 'start': 416.919, 'duration': 5.321}
+{'text': 'no Noble and good as Maximus is and make', 'start': 419.24, 'duration': 5.12}
+{'text': 'him as compelling as that performance', 'start': 422.24, 'duration': 4.28}
+{'text': "was I think it's an underrated skill in", 'start': 424.36, 'duration': 4.36}
+{'text': 'a leading man and Mescal who has been', 'start': 426.52, 'duration': 4.519}
+{'text': "great elsewhere I just don't find to be", 'start': 428.72, 'duration': 4.4}
+{'text': 'the right fit here what a crow or', 'start': 431.039, 'duration': 4.56}
+{'text': 'Eastwood is great at is the ability to', 'start': 433.12, 'duration': 4.799}
+{'text': 'convey tons of emotions bubbling just', 'start': 435.599, 'duration': 4.921}
+{'text': 'under the surface with the smallest look', 'start': 437.919, 'duration': 5.84}
+{'text': "or gesture sadly I don't think mcll is", 'start': 440.52, 'duration': 5.959}
+{'text': 'quite up to that task in Gladiator 2 I', 'start': 443.759, 'duration': 4.28}
+{'text': 'do want to say though it would be far', 'start': 446.479, 'duration': 3.681}
+{'text': 'too easy for me to lay all my issues', 'start': 448.039, 'duration': 4.201}
+{'text': 'with the Lucius character at his feet', 'start': 450.16, 'duration': 4.599}
+{'text': 'when really he was handed a pretty', 'start': 452.24, 'duration': 4.679}
+{'text': 'incoherent character from the start', 'start': 454.759, 'duration': 4.921}
+{'text': 'Lucius at least on paper goes through a', 'start': 456.919, 'duration': 5.4}
+{'text': 'major transformation at the start of the', 'start': 459.68, 'duration': 5.0}
+{'text': 'film he has spent the majority of his', 'start': 462.319, 'duration': 4.761}
+{'text': 'life outside the Roman Empire after', 'start': 464.68, 'duration': 4.68}
+{'text': 'witnessing the worst of it firsthand he', 'start': 467.08, 'duration': 4.28}
+{'text': 'builds a life for himself among the', 'start': 469.36, 'duration': 4.64}
+{'text': 'enemies of Rome he marries he sees his', 'start': 471.36, 'duration': 4.36}
+{'text': 'wife killed at the hands of a Roman', 'start': 474.0, 'duration': 4.56}
+{'text': 'general played by Pedro Pascal so', 'start': 475.72, 'duration': 5.0}
+{'text': 'understandably for most of the film he', 'start': 478.56, 'duration': 5.4}
+{'text': 'despises Rome he denies who he is to his', 'start': 480.72, 'duration': 5.08}
+{'text': 'mother and he seems to have nothing but', 'start': 483.96, 'duration': 3.72}
+{'text': 'contempt for the whole thing this change', 'start': 485.8, 'duration': 4.28}
+{'text': 'of heart he has to believing in Marcus', 'start': 487.68, 'duration': 5.04}
+{'text': "aurelius's dream the dream passed on to", 'start': 490.08, 'duration': 5.079}
+{'text': 'Maximus feels like what much of the', 'start': 492.72, 'duration': 4.64}
+{'text': 'dramatic heft of the film is supposed to', 'start': 495.159, 'duration': 5.72}
+{'text': "hinge on but that's just kind of absent", 'start': 497.36, 'duration': 5.279}
+{'text': 'I can square this away in my head', 'start': 500.879, 'duration': 3.681}
+{'text': 'somewhat by saying he was moved by', 'start': 502.639, 'duration': 4.801}
+{'text': "maximus's grave and the message on it or", 'start': 504.56, 'duration': 6.12}
+{'text': "by Pascal's apology in the arena but I", 'start': 507.44, 'duration': 4.92}
+{'text': "just don't think the film makes that", 'start': 510.68, 'duration': 4.08}
+{'text': 'huge change in motivation nearly', 'start': 512.36, 'duration': 5.599}
+{'text': 'satisfying enough especially for a big', 'start': 514.76, 'duration': 5.56}
+{'text': 'historical epic like this a genre which', 'start': 517.959, 'duration': 4.401}
+{'text': 'tends to work in very broad very', 'start': 520.32, 'duration': 4.92}
+{'text': 'sweeping emotional character arcs so', 'start': 522.36, 'duration': 5.0}
+{'text': 'Paul Mescal may not be the next Russell', 'start': 525.24, 'duration': 4.24}
+{'text': "Crow but I don't think this screenplay", 'start': 527.36, 'duration': 4.36}
+{'text': 'gave him that rock solid framework to', 'start': 529.48, 'duration': 4.52}
+{'text': 'work from that the original definitely', 'start': 531.72, 'duration': 5.6}
+{'text': 'had rolling stone calls Gladiator the', 'start': 534.0, 'duration': 7.2}
+{'text': 'first epic blast of the new century', 'start': 537.32, 'duration': 6.04}
+{'text': "now Pedro Pascal's character and his", 'start': 541.2, 'duration': 4.12}
+{'text': 'relationship to Connie Nelson from the', 'start': 543.36, 'duration': 4.159}
+{'text': 'first film I actually found pretty', 'start': 545.32, 'duration': 4.519}
+{'text': 'compelling I wish they had more to do', 'start': 547.519, 'duration': 4.281}
+{'text': 'like maybe this is weird to say about a', 'start': 549.839, 'duration': 4.281}
+{'text': '2 and 1/ half hour movie but I really', 'start': 551.8, 'duration': 3.92}
+{'text': 'feel like a lot of these characters', 'start': 554.12, 'duration': 4.2}
+{'text': 'would have benefited from a longer cut', 'start': 555.72, 'duration': 4.44}
+{'text': 'something Scott has teased as a', 'start': 558.32, 'duration': 4.16}
+{'text': 'possibility down the line I found the', 'start': 560.16, 'duration': 4.32}
+{'text': 'general to be an interesting mirror', 'start': 562.48, 'duration': 5.08}
+{'text': 'image of Maximus almost a vision of what', 'start': 564.48, 'duration': 4.599}
+{'text': "that character's life would have been", 'start': 567.56, 'duration': 3.92}
+{'text': "like had he gone along with comed's", 'start': 569.079, 'duration': 4.681}
+{'text': 'murder of the emperor and bent the knee', 'start': 571.48, 'duration': 4.799}
+{'text': "he's a man who has spent years expertly", 'start': 573.76, 'duration': 5.0}
+{'text': "planning bloody war campaigns he doesn't", 'start': 576.279, 'duration': 4.761}
+{'text': 'believe in in the name of Emperors that', 'start': 578.76, 'duration': 5.04}
+{'text': 'he despises I think you have the makings', 'start': 581.04, 'duration': 4.64}
+{'text': 'of a really great character there and', 'start': 583.8, 'duration': 4.44}
+{'text': 'his duel with Lucius in the arena is one', 'start': 585.68, 'duration': 4.719}
+{'text': 'of the high points of the film I also', 'start': 588.24, 'duration': 4.24}
+{'text': "liked Connie Nelson I think she's really", 'start': 590.399, 'duration': 3.841}
+{'text': 'effective here and I found her death', 'start': 592.48, 'duration': 4.0}
+{'text': 'scene and by extension the final scene', 'start': 594.24, 'duration': 4.68}
+{'text': 'of the movie a lot more impactful than I', 'start': 596.48, 'duration': 5.12}
+{'text': 'was really expecting a lot of that is', 'start': 598.92, 'duration': 4.68}
+{'text': 'helped by the score where I thought', 'start': 601.6, 'duration': 4.52}
+{'text': 'Harry Gregory Williams absolutely lived', 'start': 603.6, 'duration': 4.679}
+{'text': 'up to the memorable Heights of the Han', 'start': 606.12, 'duration': 4.719}
+{'text': 'Zimmer original so I thought his work on', 'start': 608.279, 'duration': 4.361}
+{'text': 'the Narnia movies was pretty', 'start': 610.839, 'duration': 3.801}
+{'text': 'underappreciated I actually regret', 'start': 612.64, 'duration': 4.439}
+{'text': 'failing to bring them up in my old video', 'start': 614.64, 'duration': 4.84}
+{'text': "on those films so I'm glad to correct", 'start': 617.079, 'duration': 4.32}
+{'text': "that here I've actually found myself", 'start': 619.48, 'duration': 4.24}
+{'text': 'returning to the Gladiator 2 soundtrack', 'start': 621.399, 'duration': 4.241}
+{'text': "since leaving the theater and it's", 'start': 623.72, 'duration': 4.239}
+{'text': 'really only grown on me now I also think', 'start': 625.64, 'duration': 3.879}
+{'text': 'for all the great things about the', 'start': 627.959, 'duration': 3.361}
+{'text': 'original going back and watching it', 'start': 629.519, 'duration': 3.961}
+{'text': 'recently I was kind of struck by how', 'start': 631.32, 'duration': 5.12}
+{'text': 'shaky and at times incoherent the action', 'start': 633.48, 'duration': 5.52}
+{'text': "is Ridley Scott doesn't do that here and", 'start': 636.44, 'duration': 4.68}
+{'text': 'while I thought the big monkey things', 'start': 639.0, 'duration': 4.639}
+{'text': 'looked pretty bad and distracting for', 'start': 641.12, 'duration': 4.24}
+{'text': 'the most part I really enjoyed the', 'start': 643.639, 'duration': 3.961}
+{'text': 'battles the arena being filled with', 'start': 645.36, 'duration': 4.68}
+{'text': 'water was a very obvious next step for', 'start': 647.6, 'duration': 4.16}
+{'text': "these movies considering that it's said", 'start': 650.04, 'duration': 3.88}
+{'text': 'to have actually happened occasionally', 'start': 651.76, 'duration': 4.48}
+{'text': 'and I really loved seeing it here the', 'start': 653.92, 'duration': 4.44}
+{'text': 'sharks in the water yeah I was very on', 'start': 656.24, 'duration': 4.2}
+{'text': 'board my only complaint with that scene', 'start': 658.36, 'duration': 4.56}
+{'text': 'really is the battle almost felt like an', 'start': 660.44, 'duration': 5.04}
+{'text': 'afterthought dramatically as lucious', 'start': 662.92, 'duration': 4.919}
+{'text': 'shooting an arrow at the general became', 'start': 665.48, 'duration': 4.4}
+{'text': 'the focus of the scene this may seem', 'start': 667.839, 'duration': 3.841}
+{'text': 'like a small complaint but one thing I', 'start': 669.88, 'duration': 4.72}
+{'text': 'always appreciated about star Spartacus', 'start': 671.68, 'duration': 5.279}
+{'text': 'show is that even among the plotting and', 'start': 674.6, 'duration': 4.2}
+{'text': 'planning that the characters were doing', 'start': 676.959, 'duration': 4.481}
+{'text': 'in the narrative the arena always felt', 'start': 678.8, 'duration': 4.599}
+{'text': 'dangerous like a place where even the', 'start': 681.44, 'duration': 4.6}
+{'text': 'most hardened Warrior could be cut down', 'start': 683.399, 'duration': 4.961}
+{'text': "if he wasn't fighting to win I think the", 'start': 686.04, 'duration': 4.88}
+{'text': 'arena battles in Gladiator 2 as great as', 'start': 688.36, 'duration': 4.599}
+{'text': 'they were could have used a bit more', 'start': 690.92, 'duration': 4.96}
+{'text': 'narrative urgency and a sense of danger', 'start': 692.959, 'duration': 5.281}
+{'text': 'overall Gladiator 2 is not a movie that', 'start': 695.88, 'duration': 4.48}
+{'text': "I regret spending time with it didn't", 'start': 698.24, 'duration': 4.36}
+{'text': 'blow me away and it plays things a', 'start': 700.36, 'duration': 5.2}
+{'text': 'little safe with its legacy sequel SL', 'start': 702.6, 'duration': 5.64}
+{'text': 'soft reboot structure the original is', 'start': 705.56, 'duration': 4.48}
+{'text': 'just not a film that was really asking', 'start': 708.24, 'duration': 3.88}
+{'text': "for this but I think there's enough here", 'start': 710.04, 'duration': 3.64}
+{'text': "that if you're in the mood for a sword", 'start': 712.12, 'duration': 3.719}
+{'text': 'and sandals epic you could do a lot', 'start': 713.68, 'duration': 4.08}
+{'text': "worse I know that probably doesn't sound", 'start': 715.839, 'duration': 3.881}
+{'text': 'like the most ringing endorsement but as', 'start': 717.76, 'duration': 4.759}
+{'text': "someone who does love that genre it's", 'start': 719.72, 'duration': 5.04}
+{'text': "kind of enough for me honestly I'll", 'start': 722.519, 'duration': 4.0}
+{'text': 'probably even see this one again before', 'start': 724.76, 'duration': 4.639}
+{'text': 'it leaves theaters Gladiator 2 is Middle', 'start': 726.519, 'duration': 4.88}
+{'text': 'of the Road Ridley Scott and how you', 'start': 729.399, 'duration': 4.601}
+{'text': 'react to it will I think largely depend', 'start': 731.399, 'duration': 4.841}
+{'text': 'on how you feel about his filmography as', 'start': 734.0, 'duration': 4.88}
+{'text': 'a whole the Gladiator movies are part of', 'start': 736.24, 'duration': 5.399}
+{'text': 'the long history of Hollywood historical', 'start': 738.88, 'duration': 5.24}
+{'text': 'epics which tend to take themselves', 'start': 741.639, 'duration': 4.361}
+{'text': "pretty seriously if you're looking for", 'start': 744.12, 'duration': 4.0}
+{'text': 'something that does the exact opposite', 'start': 746.0, 'duration': 4.04}
+{'text': "and deflates those a little bit I'm", 'start': 748.12, 'duration': 4.399}
+{'text': 'happy to say that nebula is now the home', 'start': 750.04, 'duration': 4.84}
+{'text': 'of Rift tracks now Rift tracks are some', 'start': 752.519, 'duration': 4.201}
+{'text': 'of the guys from Mystery Science Theater', 'start': 754.88, 'duration': 4.399}
+{'text': '3000 carrying on the legacy of doing', 'start': 756.72, 'duration': 4.76}
+{'text': 'some of the best commentary tracks ever', 'start': 759.279, 'duration': 4.721}
+{'text': "recorded they've been great for decades", 'start': 761.48, 'duration': 4.08}
+{'text': "and I'm so happy to see them making", 'start': 764.0, 'duration': 4.04}
+{'text': 'waves on nebula nebula is a boutique', 'start': 765.56, 'duration': 3.88}
+{'text': 'streaming service where you can watch', 'start': 768.04, 'duration': 4.12}
+{'text': 'all my videos plus a few exclusive ones', 'start': 769.44, 'duration': 5.32}
+{'text': 'totally ad free not to mention videos by', 'start': 772.16, 'duration': 5.64}
+{'text': 'tiu polyphonic Nando V movies Lindsay', 'start': 774.76, 'duration': 5.319}
+{'text': "Ellis they're all there alongside so", 'start': 777.8, 'duration': 4.76}
+{'text': 'many others and it encompasses a lot of', 'start': 780.079, 'duration': 5.481}
+{'text': 'genres of video nebula has put in a ton', 'start': 782.56, 'duration': 4.88}
+{'text': 'of effort over the years to become a', 'start': 785.56, 'duration': 4.16}
+{'text': 'Prestige streaming service for viewers', 'start': 787.44, 'duration': 4.759}
+{'text': 'and creators and it just continues to', 'start': 789.72, 'duration': 4.64}
+{'text': "get better and better so don't miss it", 'start': 792.199, 'duration': 6.681}
+{'text': 'get a nebula subscription at go.', 'start': 794.36, 'duration': 4.52}
+{'text': 'nebula.com or description', 'start': 801.0, 'duration': 4.32}
+{'text': "below here's a special tip for the", 'start': 805.839, 'duration': 3.68}
+{'text': 'fellas and girls who have have not', 'start': 808.16, 'duration': 3.4}
+{'text': "already joined Captain Midnight's new", 'start': 809.519, 'duration': 5.041}
+{'text': "1940 flight Patrol you'd better hurry up", 'start': 811.56, 'duration': 5.079}
+{'text': "and join at once because there's a big", 'start': 814.56, 'duration': 4.44}
+{'text': 'adventure ahead the thing to do now is', 'start': 816.639, 'duration': 4.681}
+{'text': "to get started because we're going to", 'start': 819.0, 'duration': 4.72}
+{'text': 'have not only barrels of fun but loads', 'start': 821.32, 'duration': 6.959}
+{'text': 'of free gifts and prizes too', 'start': 823.72, 'duration': 4.559}

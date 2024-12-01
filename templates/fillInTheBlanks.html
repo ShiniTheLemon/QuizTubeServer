@@ -1,0 +1,47 @@
+<!DOCTYPE html>
+<html lang="en" xmlns="http://www.w3.org/1999/html">
+<head>
+    <meta charset="UTF-8">
+    <title>Multiple choice</title>
+    <link rel="stylesheet" href="../static/multiplechoice.css">
+</head>
+<body >
+    <div >
+        <div>
+            <h1>
+                Good Luck!
+            </h1>
+        </div>
+        <form action="/score" method="post">
+            {% set i=0 %}
+            {% for d in data:%}
+
+            <table>
+                <tr>
+                    <td><h3>{{loop.index}}</h3>{{d.question}}</td>
+                </tr>
+
+
+                <tr >
+
+                    <td><input type="text" name="answers{{loop.index}}" ></td>
+                    <input name="real_answer{{loop.index}}" value="{{d.answer}}" type="hidden">
+                </tr>
+
+            </table>
+
+            {% endfor %}
+            <div id="button">
+            <input type="submit" >
+            </div>
+        </form>
+    </div>
+
+</body>
+<footer>
+    <h6>
+        Caution! The quiz is Ai generated, it might produce inaccurate information.
+        please be cautious to verify the authenticity of the information.
+    </h6>
+</footer>
+</html>

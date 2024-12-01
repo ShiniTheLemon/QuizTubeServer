@@ -1,0 +1,58 @@
+<!DOCTYPE html>
+<html lang="en" xmlns="http://www.w3.org/1999/html">
+<head>
+    <meta charset="UTF-8">
+    <title>Multiple choice</title>
+    <link rel="stylesheet" href="../static/multiplechoice.css">
+</head>
+<body >
+    <div >
+        <div>
+            <h1>
+                Good Luck!
+            </h1>
+        </div>
+        <form action="/score" method="post">
+            {% set i=0 %}
+            {% for d in data:%}
+
+            <table>
+                <tr>
+                    <td><h3>{{loop.index}}</h3>{{d.question}}</td>
+                </tr>
+
+
+                <tr >
+
+                    <td><input type="checkbox" id="a" name="answers{{loop.index}}" value="{{d.a}}"  onclick="onlyOne(this)">{{d.a}}</td>
+                    <td><input type="checkbox" id="b" name="answers{{loop.index}}" value="{{d.b}}"  onclick="onlyOne(this)">{{d.b}}</td>
+                    <td><input type="checkbox" id="c" name="answers{{loop.index}}" value="{{d.c}}"  onclick="onlyOne(this)">{{d.c}}</td>
+                    <td><input type="checkbox" id="d" name="answers{{loop.index}}" value="{{d.d}}" onclick="onlyOne(this)">{{d.d}}</td>
+                    <input name="real_answer{{loop.index}}" value="{{d.answer}}" type="hidden">
+                </tr>
+
+            </table>
+
+            {% endfor %}
+            <div id="button">
+            <input type="submit" >
+            </div>
+        </form>
+    </div>
+
+</body>
+<footer>
+    <h6>
+        Caution! The quiz is Ai generated, it might produce inaccurate information.
+        please be cautious to verify the authenticity of the information.
+    </h6>
+</footer>
+</html>
+<script>
+    function onlyOne(checkbox) {
+    var checkboxes = document.getElementsByName(checkbox.name)
+    checkboxes.forEach((item) => {
+        if (item !== checkbox) item.checked = false
+    })
+    }
+</script>
