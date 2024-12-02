@@ -13,14 +13,8 @@ from bs4 import BeautifulSoup
 import requests
 
 import os
-import google.generativeai as genai
-#from dotenv import load_dotenv, dotenv_values
-#load_dotenv()
 
-#key=os.getenv('GOOGLE_API_KEY')
-#print(key)
-#genai.configure(api_key='AIzaSyCdZMz4hCMQVK8THLCf1ARttLGddP9V_es')
-#model = genai.GenerativeModel('models/gemini-1.5-flash')
+
 
 app = Flask(__name__)
 app.config['SECRET_KEY'] = 'supersecretkey'
@@ -96,11 +90,7 @@ def showSore():
 
     return render_template("score.html",data=render_result)
 
-def add_question_to_session(questions):
-    q_list = []
-    for question in questions:
-        q_list.append(question.get_question())
-    session['q']=q_list
+
 
 def prompt_request(transcript,type,questions=None):
     export=utils.export(type,transcript,questions)
@@ -133,16 +123,7 @@ def genMC(url):
     else:
         return []
 
-def getAnswers(url):
-    transcript=trans.stringify(url)
-    questions=session.get('q')
-    data=prompt_request(transcript,"answers",questions)
 
-    cleaned_data=utils.cleaner(data)
-    if type(cleaned_data)!=type(''):
-        return cleaned_data
-    else:
-        return []
 
 
 app.run(port=9999)
